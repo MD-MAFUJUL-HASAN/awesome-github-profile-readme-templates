@@ -8,9 +8,7 @@
 
 <p align="center">
     &emsp;
-    ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/0_My_Template/&title=Profile%20Views)
-    &emsp;
-    <img src="https://komarev.com/ghpvc/?username=MD-MAFUJUL-HASAN" alt="MD-MAFUJUL-HASAN"/>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0_My_Template%2F%26title%3DProfile%2520Views&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a>
     &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN" /></a>
     &emsp;
@@ -131,3 +129,4 @@
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
+
