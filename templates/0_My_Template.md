@@ -111,7 +111,7 @@
  
 <div align="center">    
 <img src="https://github-stats-alpha.vercel.app/api?username=MD-MAFUJUL-HASAN&cc=000&tc=fff&ic=fff&bc=000" />
-  <h4 align="center">Visitor's count :eyes:</h4>
+  <h3 align="center">Visitor's count :eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{0_My_Template}/count.svg" alt="0_My_Template :: Visitor's Count" /></p>
 </div>
     
@@ -121,7 +121,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-MAFUJUL-HASAN&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-MAFUJUL-HASAN&theme=2077&utcOffset=6)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MD-MAFUJUL-HASAN&theme=cobalt&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=gruvbox)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
 <br /> 
 <div align='center'>
